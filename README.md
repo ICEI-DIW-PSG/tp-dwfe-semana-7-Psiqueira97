@@ -4,13 +4,14 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Pedro Siqueira Godinho
+- Matricula: 907982
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](public/Screenshot_1.png)
+![alt text](public/Screenshot_2.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
